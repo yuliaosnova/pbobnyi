@@ -5,7 +5,7 @@
   "homepage": "https://yuliaosnova.github.io/pbobnyi",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ppbobnyi/"
+    "build": "parcel build src/*.html --public-url /pbobnyi/"
   },
   "repository": {
     "type": "git",
